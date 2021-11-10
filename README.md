@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+Built on Azure DevOps: [![Build Status](https://dev.azure.com/E022236-Formation/LabProject/_apis/build/status/MiloDrama.calculator?branchName=master)](https://dev.azure.com/E022236-Formation/LabProject/_build/latest?definitionId=4&branchName=master)
